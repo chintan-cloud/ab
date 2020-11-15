@@ -1,0 +1,1 @@
+var prank = document.querySelector(".btn").addEventListener("click",function(){alert("kaisa laga mera mazak")})

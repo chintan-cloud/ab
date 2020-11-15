@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+.container{
+    margin-top: 20px;
+    color: white;
+}
+
+.heading{
+    margin-top: 160px;
+    color: white;
+}
+
+.btn{
+    height: 32px;
+    width: 104px;;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: red;
+    color: white;
+
+}
